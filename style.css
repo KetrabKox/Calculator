@@ -33,6 +33,7 @@ body{
 }
 .screen{
     height:106px;
+    width: 100%;
     background: var(--mainWhite);
     border-radius: 25px 25px 0 0;
     font-size: 55px;
